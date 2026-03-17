@@ -1,0 +1,25 @@
+   2 node index.js
+   3 git init
+   4 dir
+   5 ls
+   6 git ststus
+   7 git status
+   8 git add index.js
+   9 git status
+  10 git rm --cached index.js
+  11 git sastus
+  12 git status
+  13 git add index.js
+  14 git status
+  15 git commit -m "for devops engineer"
+  16 git status
+  17 rm index.js
+  18 dir
+  19 ls
+  20 git status
+  21 git restore index.js
+  22 ls
+  23 git status
+  24 node index.js
+  25 git add index.js
+  26 git status
