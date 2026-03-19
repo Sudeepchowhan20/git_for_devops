@@ -23,3 +23,19 @@
   24 node index.js
   25 git add index.js
   26 git status
+
+
+   2 node index.js
+   3 git init
+   4 git status
+   5 git remote add origin https://github.com/Sudeepchowhan20/git_for_devops.git
+   6 git remote -v
+   7 git remote set-url origin https://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@github....
+   8 git branch
+   9 git add .
+  10 git commit -m "initial commit"
+  11 git status
+  12 git push origin master
+  13 git branch
+  14 git add .
+  15 git commit -m "first commit"
